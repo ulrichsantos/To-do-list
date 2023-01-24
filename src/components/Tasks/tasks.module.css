@@ -1,0 +1,68 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board {
+  width: 100%;
+  max-width: 46rem;
+  margin-top: 4rem;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.titles {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 1.56rem;
+}
+
+.title1 {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.title2 {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.itemTitle {
+  color: var(--blue);
+  font-weight: 700;
+}
+
+.itemNumber {
+  font-size: .875rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  background: var(--gray-400);
+  color: var(--gray-200);
+  border-radius: 999px;
+}
+
+.itemTitle2 {
+  color: var(--purple);
+  font-weight: 700;
+}
+
+.empty {
+  margin-top: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+  color: var(--gray-300);
+}
+
+.emptyText {
+  font-weight: 700;
+}
