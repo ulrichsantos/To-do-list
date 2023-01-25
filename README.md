@@ -19,8 +19,8 @@ faça mais sentido permanecer com ela na lista.
 
 ## Tecnlogias utilizadas
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+![html](https://user-images.githubusercontent.com/102335999/214584106-06cc68f3-e3f9-46ce-bfd1-620ac6bf1eeb.svg)
+![css](https://user-images.githubusercontent.com/102335999/214584122-129fdcc4-4a63-4fa0-bb6b-8ffbfd3fe86c.svg)
+![javascript](https://user-images.githubusercontent.com/102335999/214583927-6b99ec17-8c71-4f63-bfef-b14e9f6ec564.svg)
+![typescript](https://user-images.githubusercontent.com/102335999/214583937-a71b1c1e-b346-476a-9eac-359d8297c953.svg)
+![react](https://user-images.githubusercontent.com/102335999/214583948-176b4c0b-aaea-4560-a136-5a01929a88af.svg)
